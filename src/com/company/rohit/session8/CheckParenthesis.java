@@ -34,6 +34,7 @@ public class CheckParenthesis {
             return '{';
         } else {
             return '(';
+
         }
     }
 }
